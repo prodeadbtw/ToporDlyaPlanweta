@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 73f2adf1ae949534ab7463040403bc28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4108379188862006882
+    second: toporlogo2_0
+  - first:
+      213: -677343017842810007
+    second: toporlogo2_1
+  - first:
+      213: -3972712817406918366
+    second: toporlogo2_2
+  - first:
+      213: 2040039438147217966
+    second: toporlogo2_3
+  - first:
+      213: 6776703369373896513
+    second: toporlogo2_4
+  - first:
+      213: 3538152312355298853
+    second: toporlogo2_5
+  - first:
+      213: -1542300068138888439
+    second: toporlogo2_6
+  - first:
+      213: -2876014434084149274
+    second: toporlogo2_7
+  - first:
+      213: -7843128183268852451
+    second: toporlogo2_8
+  - first:
+      213: -2521125130870231590
+    second: toporlogo2_9
+  - first:
+      213: -8868814283483236018
+    second: toporlogo2_10
+  - first:
+      213: 1628008457894622066
+    second: toporlogo2_11
+  - first:
+      213: -2883185589196263249
+    second: toporlogo2_12
+  - first:
+      213: -4920677841198786889
+    second: toporlogo2_13
+  - first:
+      213: 6547096280817347768
+    second: toporlogo2_14
+  - first:
+      213: -6552081163376956493
+    second: toporlogo2_15
+  - first:
+      213: -7351614415308662395
+    second: toporlogo2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toporlogo2_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 156
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2663abaea15e30930800000000000000
+      internalID: 4108379188862006882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 157
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963636e2d189996f0800000000000000
+      internalID: -677343017842810007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 157
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221c1dbadb61ed8c0800000000000000
+      internalID: -3972712817406918366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 134
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a6d867f0daf4c10800000000000000
+      internalID: 2040039438147217966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 157
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f49b75fcfab0e50800000000000000
+      internalID: 6776703369373896513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 159
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e1a2b38ca0a1130800000000000000
+      internalID: 3538152312355298853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 49
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903558d6246a89ae0800000000000000
+      internalID: -1542300068138888439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 49
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7a4872c185618d0800000000000000
+      internalID: -2876014434084149274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_8
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 49
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db764d87c972390800000000000000
+      internalID: -7843128183268852451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 26
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add6b2c0d0a230dd0800000000000000
+      internalID: -2521125130870231590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 49
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49321ee564abe480800000000000000
+      internalID: -8868814283483236018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 49
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f3202119d79610800000000000000
+      internalID: 1628008457894622066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 49
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa07e6e7bfddcf7d0800000000000000
+      internalID: -2883185589196263249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 49
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d535039d36bbb0800000000000000
+      internalID: -4920677841198786889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 49
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc26602165fbda50800000000000000
+      internalID: 6547096280817347768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_15
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 49
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb636575e45215a0800000000000000
+      internalID: -6552081163376956493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toporlogo2_16
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 49
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589d2e9c3a1d9f990800000000000000
+      internalID: -7351614415308662395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      toporlogo2_0: 4108379188862006882
+      toporlogo2_1: -677343017842810007
+      toporlogo2_10: -8868814283483236018
+      toporlogo2_11: 1628008457894622066
+      toporlogo2_12: -2883185589196263249
+      toporlogo2_13: -4920677841198786889
+      toporlogo2_14: 6547096280817347768
+      toporlogo2_15: -6552081163376956493
+      toporlogo2_16: -7351614415308662395
+      toporlogo2_2: -3972712817406918366
+      toporlogo2_3: 2040039438147217966
+      toporlogo2_4: 6776703369373896513
+      toporlogo2_5: 3538152312355298853
+      toporlogo2_6: -1542300068138888439
+      toporlogo2_7: -2876014434084149274
+      toporlogo2_8: -7843128183268852451
+      toporlogo2_9: -2521125130870231590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
